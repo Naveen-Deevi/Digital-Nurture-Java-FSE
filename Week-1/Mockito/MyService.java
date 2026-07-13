@@ -1,4 +1,3 @@
-// Service class that depends on the ExternalApi
 public class MyService {
 
     private final ExternalApi externalApi;
